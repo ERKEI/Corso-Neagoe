@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Track
+comment0.text=\n\ Descrizione\ di\ un\ Track.\ \n\ Si\ deve\ prevedere\ un\ costruttore\ che\ ha\ come\ parametro\ una\ stringa\ con\ \n\ i\ campi\ separate\ da\ un\ carattere\ '|'\n\ \n\ @author\ lorenzo\n\ @version\ 25/10/2017\n
+comment1.params=codice\ autore\ titolo\ prezzo
+comment1.target=Track(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment1.text=\n\ Costruttore\ completo\n\ \n
+comment2.params=
+comment2.target=Track()
+comment2.text=\n\ costruttore\ senza\ parametri\n
+comment3.params=elenco
+comment3.target=Track(java.lang.String)
+comment3.text=\n\ costruttore\ con\ un\ parametro\ stringa.\ \n\ I\ campi\ vengono\ estratti\ dalla\ stringa\ \n\ I\ campi\ sono\ separati\ da\ un\ carattere\ specificato\n
+comment4.params=
+comment4.target=java.lang.String\ getTitolo()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

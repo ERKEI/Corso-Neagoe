@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TextFile
+comment0.text=\n\ TextFile\ -\ utilizza\ un\ generico\ file\ di\ testo\ con\ i\ dati\ inseriti\ uno\ per\ linea\ \n\ \n
+comment1.params=
+comment1.target=TextFile()
+comment2.params=filePath\ cls
+comment2.target=java.util.ArrayList\ getData(java.lang.String,\ java.lang.Class)
+comment2.text=\n\ restituisce\ un\ arrayList\ del\ tipo\ specificato\ dal\ parametro\ con\ tutti\ i\ dati\n\ La\ classe\ passata\ in\ ingresso\ deve\ avere\ un\ costruttore\ con\ parametro\ strin\n\ I\ dati\ vengono\ estratti\ dalla\ stringa\n
+comment3.params=filePath\ data
+comment3.target=void\ saveData(java.lang.String,\ java.util.ArrayList)
+numComments=4
